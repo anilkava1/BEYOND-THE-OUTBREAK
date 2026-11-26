@@ -1,5 +1,0 @@
-frames/*
-!frames/.gitkeep
-out/*
-!out/.gitkeep
-__pycache__/
