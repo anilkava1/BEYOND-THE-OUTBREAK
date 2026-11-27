@@ -1,0 +1,27 @@
+{
+  "meta": {"title": "Zombie Outbreak: Din 1", "mode": "short", "genre": "zombie", "music": true},
+  "shots": [
+    {"location": "park", "dur": 3.6, "grade": "none", "title": "Zombie Outbreak", "caption": "Ek normal din tha... jab tak sirens nahi bajne lage.",
+     "characters": [{"name": "pico", "x": 0.3, "pose": "wave", "expr": "happy", "size": 0.85}, {"name": "remy", "x": 0.7, "expr": "happy", "size": 0.85, "look": "left"}]},
+    {"location": "cafe", "dur": 3.4, "grade": "none", "sfx": "alarm", "caption": "News: shehar me ajeeb bimari phail rahi hai!", "fx": ["shake"],
+     "characters": [{"name": "pico", "x": 0.3, "expr": "worried", "size": 0.85, "look": "right"}, {"name": "remy", "x": 0.7, "pose": "shrug", "expr": "surprised", "size": 0.85}]},
+    {"location": "ruined_street", "dur": 3.8, "sfx": "growl", "horde": 7, "fx": ["fog"], "caption": "Log... ajeeb tareeke se chal rahe the.",
+     "characters": [{"name": "pico", "x": 0.3, "pose": "point", "expr": "scared", "size": 0.9, "look": "right"}, {"name": "remy", "x": 0.7, "pose": "cower", "expr": "terrified", "size": 0.85}]},
+    {"location": "ruined_street", "dur": 3.8, "fx": ["shake", "fog"], "caption": "Bhaago! Ye hamare padosi hain... par ab pehle jaise nahi!",
+     "characters": [{"name": "pico", "x": 0.2, "to_x": 0.75, "run": true, "expr": "terrified", "size": 0.85}, {"name": "remy", "x": 0.05, "to_x": 0.5, "run": true, "expr": "scared", "size": 0.85}, {"name": "zombie", "x": 0.95, "to_x": 0.55, "expr": "groan", "size": 0.9}]},
+    {"location": "supermarket", "dur": 3.8, "fx": ["flicker"], "caption": "Supermarket me chhupe. Sabse zyada khana yahin tha.",
+     "characters": [{"name": "pico", "x": 0.3, "pose": "cower", "expr": "scared", "size": 0.85}, {"name": "mia", "x": 0.7, "pose": "think", "expr": "worried", "size": 0.85, "look": "left"}]},
+    {"location": "supermarket", "dur": 3.8, "speaker": "mia", "caption": "Plan: bat, torch aur dimaag!",
+     "characters": [{"name": "pico", "x": 0.28, "prop": "bat", "expr": "determined", "size": 0.85}, {"name": "mia", "x": 0.62, "pose": "point", "prop": "flashlight", "expr": "determined", "size": 0.85}]},
+    {"location": "abandoned_school", "dur": 3.8, "fx": ["red_alert"], "caption": "Remy ne chhupaya tha... use bite lag chuka tha.",
+     "characters": [{"name": "pico", "x": 0.3, "expr": "sad", "size": 0.85, "look": "right"}, {"name": "remy", "x": 0.7, "expr": "sad", "size": 0.85, "look": "down"}]},
+    {"location": "lab", "dur": 3.8, "speaker": "doc", "caption": "Doctor: Antidote ek hi hai... aur wo chhat par hai!",
+     "characters": [{"name": "doc", "x": 0.2, "pose": "point", "expr": "worried", "size": 0.8}, {"name": "pico", "x": 0.5, "expr": "surprised", "size": 0.8}, {"name": "mia", "x": 0.8, "expr": "determined", "size": 0.8}]},
+    {"location": "rooftop", "dur": 3.8, "horde": 8, "fx": ["fog", "flicker"], "caption": "Chhat par pahunche... neeche poori bheed thi.",
+     "characters": [{"name": "pico", "x": 0.3, "prop": "bat", "expr": "determined", "size": 0.9}, {"name": "mia", "x": 0.7, "pose": "cower", "expr": "scared", "size": 0.85}]},
+    {"location": "rooftop", "dur": 3.6, "grade": "none", "sfx": "ding", "caption": "Helicopter aa gaya! Hum bach gaye!",
+     "characters": [{"name": "pico", "x": 0.25, "pose": "cheer", "expr": "happy", "size": 0.8}, {"name": "mia", "x": 0.5, "pose": "cheer", "expr": "happy", "size": 0.8}, {"name": "doc", "x": 0.75, "pose": "wave", "expr": "happy", "size": 0.8}]},
+    {"location": "rooftop", "dur": 3.8, "sfx": "growl", "fx": ["red_alert"], "title": "To be continued", "title_pos": "center", "caption": "Par kya ye sach me khatam hua?",
+     "characters": [{"name": "pico", "x": 0.3, "expr": "worried", "size": 0.85, "look": "right"}, {"name": "zombie_remy", "x": 0.8, "expr": "groan", "size": 0.85}]}
+  ]
+}

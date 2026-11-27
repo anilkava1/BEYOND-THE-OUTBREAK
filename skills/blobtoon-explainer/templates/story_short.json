@@ -1,0 +1,19 @@
+{
+  "meta": {"title": "Kal Se Pakka?", "mode": "short", "music": true},
+  "shots": [
+    {"location": "bedroom_night", "dur": 4.0, "title": "Kal se pakka?", "caption": "Raat ke 11 baj gaye... padhai shuru karni thi.",
+     "camera": {"zoom": [1.0, 1.12], "focus": [0.5, 0.6]},
+     "characters": [{"name": "pico", "x": 0.5, "pose": "think", "expr": "worried", "look": "up_right"}]},
+    {"location": "bedroom_night", "dur": 3.6, "caption": "Bas 5 minute reel dekh leta hoon!", "speaker": "pico",
+     "characters": [{"name": "pico", "x": 0.5, "pose": "point", "expr": "happy", "look": "right"}]},
+    {"location": "street_sunset", "dur": 4.0, "caption": "Dost ne bola: chal chai peete hain.", "speaker": "remy",
+     "characters": [{"name": "pico", "x": 0.2, "to_x": 0.38, "expr": "happy", "size": 0.85}, {"name": "remy", "x": 0.55, "to_x": 0.7, "expr": "happy", "size": 0.85, "look": "left"}]},
+    {"location": "cafe", "dur": 4.0, "caption": "Ek ghanta... do ghante... time ka pata hi nahi!", "sfx": "whoosh",
+     "characters": [{"name": "remy", "x": 0.2, "expr": "happy", "size": 0.75}, {"name": "pico", "x": 0.5, "pose": "cheer", "expr": "happy", "size": 0.85}, {"name": "mia", "x": 0.8, "expr": "surprised", "size": 0.75, "look": "left"}]},
+    {"location": "classroom", "dur": 4.0, "caption": "Kal exam hai?! Mujhe aaj hi pata chala!", "speaker": "pico", "camera": {"zoom": [1.0, 1.15]},
+     "characters": [{"name": "zed", "x": 0.18, "expr": "surprised", "size": 0.7, "look": "right"}, {"name": "pico", "x": 0.5, "pose": "stress", "expr": "surprised", "size": 0.95}, {"name": "sam", "x": 0.84, "expr": "angry", "size": 0.8, "look": "left"}]},
+    {"location": "bedroom_night", "dur": 4.0, "title": "Abhi shuru karo!", "title_pos": "center", "caption": "Moral: 'kal' kabhi nahi aata. Abhi shuru karo!", "sfx": "ding",
+     "camera": {"zoom": [1.0, 1.1], "focus": [0.5, 0.65]},
+     "characters": [{"name": "pico", "x": 0.5, "pose": "point", "expr": "happy", "look": "camera"}]}
+  ]
+}

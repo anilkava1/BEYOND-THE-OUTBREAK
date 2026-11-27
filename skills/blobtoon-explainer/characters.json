@@ -1,0 +1,117 @@
+{
+ "pico": {
+  "role": "HERO - always the main character",
+  "outfit": "hoodie",
+  "color": "#F2B81C",
+  "hair": "none",
+  "hair_color": null,
+  "legs": "#17171B",
+  "shoes": "#F4F4F4"
+ },
+ "remy": {
+  "role": "best friend, curly hair, blue hoodie",
+  "outfit": "hoodie",
+  "color": "#3E6FB8",
+  "hair": "curly",
+  "hair_color": "#6B4423",
+  "legs": "#17171B",
+  "shoes": "#F4F4F4"
+ },
+ "mia": {
+  "role": "smart girl, brown bob, pink hoodie",
+  "outfit": "hoodie",
+  "color": "#E8749A",
+  "hair": "bob",
+  "hair_color": "#7A4A2A",
+  "legs": "#17171B",
+  "shoes": "#F4F4F4"
+ },
+ "zed": {
+  "role": "funny friend, red beanie, teal hoodie",
+  "outfit": "hoodie",
+  "color": "#2FA39A",
+  "hair": "beanie",
+  "hair_color": "#D8352A",
+  "legs": "#17171B",
+  "shoes": "#F4F4F4"
+ },
+ "ollie": {
+  "role": "cool kid, blue cap, orange hoodie",
+  "outfit": "hoodie",
+  "color": "#EE8A2E",
+  "hair": "cap",
+  "hair_color": "#2C4F9E",
+  "legs": "#17171B",
+  "shoes": "#F4F4F4"
+ },
+ "sam": {
+  "role": "teacher/boss/adult, navy suit, red tie",
+  "outfit": "suit",
+  "color": "#27385F",
+  "hair": "none",
+  "hair_color": null,
+  "legs": "#1E2438",
+  "shoes": "#2B2B30"
+ },
+ "doc": {
+  "role": "scientist / doctor / expert, white lab coat + glasses",
+  "outfit": "labcoat",
+  "color": "#E8EEF2",
+  "hair": "none",
+  "hair_color": null,
+  "legs": "#2B3A55",
+  "shoes": "#F4F4F4",
+  "glasses": true
+ },
+ "zombie": {
+  "outfit": "hoodie",
+  "hair": "none",
+  "hair_color": null,
+  "legs": "#2A2E2A",
+  "shoes": "#3A3A3A",
+  "zombie": true,
+  "role": "ZOMBIE generic infected walker",
+  "color": "#7C8A74"
+ },
+ "zombie_girl": {
+  "outfit": "hoodie",
+  "hair": "bob",
+  "hair_color": "#3E3028",
+  "legs": "#2A2E2A",
+  "shoes": "#3A3A3A",
+  "zombie": true,
+  "role": "ZOMBIE infected girl, bob hair",
+  "color": "#9A6A86"
+ },
+ "zombie_boss": {
+  "outfit": "suit",
+  "hair": "none",
+  "hair_color": null,
+  "legs": "#1E2438",
+  "shoes": "#3A3A3A",
+  "zombie": true,
+  "role": "ZOMBIE big infected adult in suit (bigger)",
+  "color": "#3B4560",
+  "scale": 1.18
+ },
+ "zombie_remy": {
+  "outfit": "hoodie",
+  "hair": "curly",
+  "hair_color": "#4A3420",
+  "legs": "#2A2E2A",
+  "shoes": "#3A3A3A",
+  "zombie": true,
+  "role": "ZOMBIE infected Remy (twist: friend turns)",
+  "color": "#4A6A94"
+ },
+ "zombie_ollie": {
+  "outfit": "hoodie",
+  "hair": "cap",
+  "hair_color": "#35466E",
+  "legs": "#2A2E2A",
+  "shoes": "#3A3A3A",
+  "zombie": true,
+  "role": "ZOMBIE infected Ollie",
+  "color": "#B47838"
+ }
+}

@@ -1,0 +1,226 @@
+{
+ "meta": {
+  "title": "Long template (copy this pattern up to ~55 shots x 5s = 275s)",
+  "mode": "long",
+  "music": true
+ },
+ "shots": [
+  {
+   "location": "bedroom_night",
+   "dur": 5,
+   "caption": "Scene 1: replace with one short sentence.",
+   "camera": {
+    "zoom": [
+     1.0,
+     1.1
+    ]
+   },
+   "characters": [
+    {
+     "name": "pico",
+     "x": 0.3,
+     "pose": "think",
+     "expr": "worried",
+     "size": 0.9
+    },
+    {
+     "name": "remy",
+     "x": 0.7,
+     "expr": "happy",
+     "size": 0.85,
+     "look": "left"
+    }
+   ],
+   "title": "Your Long Video Title"
+  },
+  {
+   "location": "classroom",
+   "dur": 5,
+   "caption": "Scene 2: replace with one short sentence.",
+   "camera": {
+    "zoom": [
+     1.0,
+     1.1
+    ]
+   },
+   "characters": [
+    {
+     "name": "pico",
+     "x": 0.3,
+     "pose": "point",
+     "expr": "happy",
+     "size": 0.9
+    },
+    {
+     "name": "mia",
+     "x": 0.7,
+     "expr": "happy",
+     "size": 0.85,
+     "look": "left"
+    }
+   ]
+  },
+  {
+   "location": "cafe",
+   "dur": 5,
+   "caption": "Scene 3: replace with one short sentence.",
+   "camera": {
+    "zoom": [
+     1.0,
+     1.1
+    ]
+   },
+   "characters": [
+    {
+     "name": "pico",
+     "x": 0.3,
+     "pose": "shrug",
+     "expr": "sad",
+     "size": 0.9
+    },
+    {
+     "name": "zed",
+     "x": 0.7,
+     "expr": "happy",
+     "size": 0.85,
+     "look": "left"
+    }
+   ]
+  },
+  {
+   "location": "park",
+   "dur": 5,
+   "caption": "Scene 4: replace with one short sentence.",
+   "camera": {
+    "zoom": [
+     1.0,
+     1.1
+    ]
+   },
+   "characters": [
+    {
+     "name": "pico",
+     "x": 0.3,
+     "pose": "cheer",
+     "expr": "happy",
+     "size": 0.9
+    },
+    {
+     "name": "ollie",
+     "x": 0.7,
+     "expr": "happy",
+     "size": 0.85,
+     "look": "left"
+    }
+   ]
+  },
+  {
+   "location": "street_sunset",
+   "dur": 5,
+   "caption": "Scene 5: replace with one short sentence.",
+   "camera": {
+    "zoom": [
+     1.0,
+     1.1
+    ]
+   },
+   "characters": [
+    {
+     "name": "pico",
+     "x": 0.3,
+     "pose": "idle",
+     "expr": "smug",
+     "size": 0.9
+    },
+    {
+     "name": "remy",
+     "x": 0.7,
+     "expr": "happy",
+     "size": 0.85,
+     "look": "left"
+    }
+   ]
+  },
+  {
+   "location": "stage",
+   "dur": 5,
+   "caption": "Scene 6: replace with one short sentence.",
+   "camera": {
+    "zoom": [
+     1.0,
+     1.1
+    ]
+   },
+   "characters": [
+    {
+     "name": "pico",
+     "x": 0.3,
+     "pose": "stress",
+     "expr": "surprised",
+     "size": 0.9
+    },
+    {
+     "name": "mia",
+     "x": 0.7,
+     "expr": "happy",
+     "size": 0.85,
+     "look": "left"
+    }
+   ]
+  },
+  {
+   "location": "bedroom_night",
+   "dur": 5,
+   "caption": "Scene 7: replace with one short sentence.",
+   "camera": {
+    "zoom": [
+     1.0,
+     1.1
+    ]
+   },
+   "characters": [
+    {
+     "name": "pico",
+     "x": 0.3,
+     "pose": "think",
+     "expr": "worried",
+     "size": 0.9
+    },
+    {
+     "name": "zed",
+     "x": 0.7,
+     "expr": "happy",
+     "size": 0.85,
+     "look": "left"
+    }
+   ]
+  },
+  {
+   "location": "classroom",
+   "dur": 5,
+   "caption": "Scene 8: replace with one short sentence.",
+   "camera": {
+    "zoom": [
+     1.0,
+     1.1
+    ]
+   },
+   "characters": [
+    {
+     "name": "pico",
+     "x": 0.3,
+     "pose": "point",
+     "expr": "happy",
+     "size": 0.9
+    },
+    {
+     "name": "ollie",
+     "x": 0.7,
+     "expr": "happy",
+     "size": 0.85,
+     "look": "left"
+    }
+   ]
+  }
+ ]
+}

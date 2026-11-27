@@ -1,0 +1,424 @@
+{
+ "meta": {
+  "title": "Zombie long template: 14 beats x 5s = 70s. Extend to ~55 shots x 5s for 4-5 min",
+  "mode": "long",
+  "genre": "zombie",
+  "music": true
+ },
+ "shots": [
+  {
+   "location": "park",
+   "dur": 5,
+   "caption": "HOOK: title + normal day (replace with 1 short sentence)",
+   "camera": {
+    "zoom": [
+     1.0,
+     1.1
+    ]
+   },
+   "characters": [
+    {
+     "name": "pico",
+     "x": 0.3,
+     "size": 0.85,
+     "expr": "neutral"
+    },
+    {
+     "name": "remy",
+     "x": 0.7,
+     "size": 0.85,
+     "expr": "neutral"
+    }
+   ],
+   "grade": "none",
+   "title": "Your Zombie Title"
+  },
+  {
+   "location": "cafe",
+   "dur": 5,
+   "caption": "NORMAL: friends joke around (replace with 1 short sentence)",
+   "camera": {
+    "zoom": [
+     1.1,
+     1.0
+    ]
+   },
+   "characters": [
+    {
+     "name": "pico",
+     "x": 0.2,
+     "size": 0.75,
+     "expr": "neutral"
+    },
+    {
+     "name": "remy",
+     "x": 0.5,
+     "size": 0.75,
+     "expr": "neutral"
+    },
+    {
+     "name": "mia",
+     "x": 0.8,
+     "size": 0.75,
+     "expr": "neutral"
+    }
+   ],
+   "grade": "none"
+  },
+  {
+   "location": "classroom",
+   "dur": 5,
+   "caption": "FIRST RUMOR: strange news (replace with 1 short sentence)",
+   "camera": {
+    "zoom": [
+     1.0,
+     1.1
+    ]
+   },
+   "characters": [
+    {
+     "name": "pico",
+     "x": 0.2,
+     "size": 0.75,
+     "expr": "neutral"
+    },
+    {
+     "name": "mia",
+     "x": 0.5,
+     "size": 0.75,
+     "expr": "neutral"
+    },
+    {
+     "name": "sam",
+     "x": 0.8,
+     "size": 0.75,
+     "expr": "neutral"
+    }
+   ],
+   "grade": "none",
+   "sfx": "alarm"
+  },
+  {
+   "location": "street_sunset",
+   "dur": 5,
+   "caption": "STRANGE SIGN: people acting odd (replace with 1 short sentence)",
+   "camera": {
+    "zoom": [
+     1.1,
+     1.0
+    ]
+   },
+   "characters": [
+    {
+     "name": "pico",
+     "x": 0.3,
+     "size": 0.85,
+     "expr": "neutral"
+    },
+    {
+     "name": "remy",
+     "x": 0.7,
+     "size": 0.85,
+     "expr": "neutral"
+    }
+   ],
+   "fx": [
+    "fog"
+   ]
+  },
+  {
+   "location": "ruined_street",
+   "dur": 5,
+   "caption": "OUTBREAK: first zombies (replace with 1 short sentence)",
+   "camera": {
+    "zoom": [
+     1.0,
+     1.1
+    ]
+   },
+   "characters": [
+    {
+     "name": "pico",
+     "x": 0.3,
+     "size": 0.85,
+     "expr": "neutral"
+    },
+    {
+     "name": "remy",
+     "x": 0.7,
+     "size": 0.85,
+     "expr": "neutral"
+    }
+   ],
+   "horde": 6,
+   "fx": [
+    "fog"
+   ],
+   "sfx": "growl"
+  },
+  {
+   "location": "ruined_street",
+   "dur": 5,
+   "caption": "CHASE: run! (replace with 1 short sentence)",
+   "camera": {
+    "zoom": [
+     1.1,
+     1.0
+    ]
+   },
+   "characters": [
+    {
+     "name": "pico",
+     "x": 0.3,
+     "size": 0.85,
+     "expr": "neutral"
+    },
+    {
+     "name": "remy",
+     "x": 0.7,
+     "size": 0.85,
+     "expr": "neutral"
+    }
+   ],
+   "horde": 8,
+   "fx": [
+    "shake"
+   ]
+  },
+  {
+   "location": "bus",
+   "dur": 5,
+   "caption": "ESCAPE: last bus (replace with 1 short sentence)",
+   "camera": {
+    "zoom": [
+     1.0,
+     1.1
+    ]
+   },
+   "characters": [
+    {
+     "name": "pico",
+     "x": 0.2,
+     "size": 0.75,
+     "expr": "neutral"
+    },
+    {
+     "name": "remy",
+     "x": 0.5,
+     "size": 0.75,
+     "expr": "neutral"
+    },
+    {
+     "name": "mia",
+     "x": 0.8,
+     "size": 0.75,
+     "expr": "neutral"
+    }
+   ],
+   "fx": [
+    "flicker"
+   ]
+  },
+  {
+   "location": "supermarket",
+   "dur": 5,
+   "caption": "SUPPLIES: hide + gather (replace with 1 short sentence)",
+   "camera": {
+    "zoom": [
+     1.1,
+     1.0
+    ]
+   },
+   "characters": [
+    {
+     "name": "pico",
+     "x": 0.3,
+     "size": 0.85,
+     "expr": "neutral"
+    },
+    {
+     "name": "mia",
+     "x": 0.7,
+     "size": 0.85,
+     "expr": "neutral"
+    }
+   ],
+   "fx": [
+    "flicker"
+   ]
+  },
+  {
+   "location": "abandoned_school",
+   "dur": 5,
+   "caption": "BARRICADE: make a plan (replace with 1 short sentence)",
+   "camera": {
+    "zoom": [
+     1.0,
+     1.1
+    ]
+   },
+   "characters": [
+    {
+     "name": "pico",
+     "x": 0.2,
+     "size": 0.75,
+     "expr": "neutral"
+    },
+    {
+     "name": "mia",
+     "x": 0.5,
+     "size": 0.75,
+     "expr": "neutral"
+    },
+    {
+     "name": "zed",
+     "x": 0.8,
+     "size": 0.75,
+     "expr": "neutral"
+    }
+   ]
+  },
+  {
+   "location": "abandoned_school",
+   "dur": 5,
+   "caption": "LOSS/TWIST: friend infected (replace with 1 short sentence)",
+   "camera": {
+    "zoom": [
+     1.1,
+     1.0
+    ]
+   },
+   "characters": [
+    {
+     "name": "pico",
+     "x": 0.3,
+     "size": 0.85,
+     "expr": "neutral"
+    },
+    {
+     "name": "remy",
+     "x": 0.7,
+     "size": 0.85,
+     "expr": "neutral"
+    }
+   ],
+   "fx": [
+    "red_alert"
+   ]
+  },
+  {
+   "location": "lab",
+   "dur": 5,
+   "caption": "ANSWER: doctor explains cure (replace with 1 short sentence)",
+   "camera": {
+    "zoom": [
+     1.0,
+     1.1
+    ]
+   },
+   "characters": [
+    {
+     "name": "pico",
+     "x": 0.2,
+     "size": 0.75,
+     "expr": "neutral"
+    },
+    {
+     "name": "doc",
+     "x": 0.5,
+     "size": 0.75,
+     "expr": "neutral"
+    },
+    {
+     "name": "mia",
+     "x": 0.8,
+     "size": 0.75,
+     "expr": "neutral"
+    }
+   ]
+  },
+  {
+   "location": "rooftop",
+   "dur": 5,
+   "caption": "CLIMAX: final stand (replace with 1 short sentence)",
+   "camera": {
+    "zoom": [
+     1.1,
+     1.0
+    ]
+   },
+   "characters": [
+    {
+     "name": "pico",
+     "x": 0.3,
+     "size": 0.85,
+     "expr": "neutral"
+    },
+    {
+     "name": "mia",
+     "x": 0.7,
+     "size": 0.85,
+     "expr": "neutral"
+    }
+   ],
+   "horde": 8,
+   "fx": [
+    "fog",
+    "shake"
+   ]
+  },
+  {
+   "location": "rooftop",
+   "dur": 5,
+   "caption": "RELIEF: rescue arrives (replace with 1 short sentence)",
+   "camera": {
+    "zoom": [
+     1.0,
+     1.1
+    ]
+   },
+   "characters": [
+    {
+     "name": "pico",
+     "x": 0.2,
+     "size": 0.75,
+     "expr": "neutral"
+    },
+    {
+     "name": "mia",
+     "x": 0.5,
+     "size": 0.75,
+     "expr": "neutral"
+    },
+    {
+     "name": "doc",
+     "x": 0.8,
+     "size": 0.75,
+     "expr": "neutral"
+    }
+   ],
+   "grade": "none",
+   "sfx": "ding"
+  },
+  {
+   "location": "bedroom_night",
+   "dur": 5,
+   "caption": "LESSON + CTA: like/subscribe (replace with 1 short sentence)",
+   "camera": {
+    "zoom": [
+     1.1,
+     1.0
+    ]
+   },
+   "characters": [
+    {
+     "name": "pico",
+     "x": 0.5,
+     "size": 0.9,
+     "expr": "neutral"
+    }
+   ],
+   "grade": "none"
+  }
+ ]
+}
